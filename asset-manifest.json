@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ETS-PBF-React-with-material-UI/static/css/main.e2fe4d47.css",
+    "main.js": "/ETS-PBF-React-with-material-UI/static/js/main.fd62d041.js",
+    "static/media/Photo.jpeg": "/ETS-PBF-React-with-material-UI/static/media/Photo.051468414316a1aefc95.jpeg",
+    "static/media/Profile.jpeg": "/ETS-PBF-React-with-material-UI/static/media/Profile.8e90a3668bfa8483de91.jpeg",
+    "index.html": "/ETS-PBF-React-with-material-UI/index.html",
+    "main.e2fe4d47.css.map": "/ETS-PBF-React-with-material-UI/static/css/main.e2fe4d47.css.map",
+    "main.fd62d041.js.map": "/ETS-PBF-React-with-material-UI/static/js/main.fd62d041.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2fe4d47.css",
+    "static/js/main.fd62d041.js"
+  ]
+}

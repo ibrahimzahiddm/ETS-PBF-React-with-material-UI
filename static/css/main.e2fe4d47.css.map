@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e2fe4d47.css","mappings":"AACA,KACE,6BACF,CAEA,IACE,cACF","sources":["index.css"],"sourcesContent":["/* CssBaseline dari MUI sudah melakukan reset dasar, file ini hanya untuk hal kecil global. */\nhtml {\n  -webkit-text-size-adjust: 100%;\n}\n\nimg {\n  max-width: 100%;\n}\n"],"names":[],"sourceRoot":""}
