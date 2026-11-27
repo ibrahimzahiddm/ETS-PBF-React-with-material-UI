@@ -1,0 +1,8 @@
+/* CssBaseline dari MUI sudah melakukan reset dasar, file ini hanya untuk hal kecil global. */
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+img {
+  max-width: 100%;
+}
